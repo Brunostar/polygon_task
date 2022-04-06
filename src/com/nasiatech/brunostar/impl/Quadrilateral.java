@@ -12,6 +12,7 @@ public class Quadrilateral implements Polygon {
     double side1and4angle;
     double side2and3angle;
 
+    public Quadrilateral(){}
     public Quadrilateral(double side1, double side2,
                          double side3, double side4,
                          double side1and4angle, double side2and3angle) {
