@@ -10,7 +10,5 @@ perimeter( ) methods. Also implement classes, IsoscelesTriangle, Equilateral-
 Triangle, Rectangle, and Square, which have the appropriate inheritance rela-
 tionships. Finally, write a simple user interface, which allows users to create
 polygons of the various types, input their geometric dimensions, and then out-
-put their area and perimeter. For extra effort, allow users to input polygons by
-specifying their vertex coordinates and be able to test if two such polygons are
-similar.
+put their area and perimeter.
 
