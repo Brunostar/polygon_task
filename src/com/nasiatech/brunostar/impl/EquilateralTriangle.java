@@ -17,6 +17,6 @@ public class EquilateralTriangle extends Triangle{
 
     @Override
     public double getPerimeter() {
-        return 0.5 * 3 * side;
+        return 3 * side;
     }
 }
